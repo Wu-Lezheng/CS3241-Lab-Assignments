@@ -1,0 +1,13 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+D:\Year2Sem1\CS3241\lab\Lab2_todo_(win-vs2017)\main.cpp(55,47): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab2_todo_(win-vs2017)\main.cpp(58,45): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab2_todo_(win-vs2017)\main.cpp(66,54): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab2_todo_(win-vs2017)\main.cpp(67,54): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab2_todo_(win-vs2017)\main.cpp(68,55): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab2_todo_(win-vs2017)\main.cpp(72,54): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab2_todo_(win-vs2017)\main.cpp(73,54): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab2_todo_(win-vs2017)\main.cpp(74,55): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab2_todo_(win-vs2017)\main.cpp(533,52): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  main.vcxproj -> D:\Year2Sem1\CS3241\lab\Lab2_todo_(win-vs2017)\Debug\main.exe
