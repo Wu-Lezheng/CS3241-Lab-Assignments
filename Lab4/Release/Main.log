@@ -1,0 +1,11 @@
+﻿  Camera.cpp
+  Image.cpp
+  ImageIO.cpp
+  Main.cpp
+  Plane.cpp
+  Raytrace.cpp
+  Sphere.cpp
+  Triangle.cpp
+  Util.cpp
+  Generating Code...
+  Main.vcxproj -> D:\Year2Sem1\CS3241\lab\Lab4_todo_(win-vs2017)\Release\Main.exe
