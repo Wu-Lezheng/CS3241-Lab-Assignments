@@ -1,3 +1,0 @@
-D:\Year2Sem1\CS3241\lab\Lab1_todo_(win-vs2017)\Debug\main.exe
-D:\Year2Sem1\CS3241\lab\e0774554_lab1\Debug\main.exe
-D:\Year2Sem1\CS3241\lab\Lab1_todo\Debug\main.exe

@@ -1,8 +1,0 @@
-﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
-  main.cpp
-D:\Year2Sem1\CS3241\lab\Lab1_todo\main.cpp(169,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\Year2Sem1\CS3241\lab\Lab1_todo\main.cpp(172,29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-D:\Year2Sem1\CS3241\lab\Lab1_todo\main.cpp(183,29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-D:\Year2Sem1\CS3241\lab\Lab1_todo\main.cpp(184,29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
-  main.vcxproj -> D:\Year2Sem1\CS3241\lab\Lab1_todo\Debug\main.exe
