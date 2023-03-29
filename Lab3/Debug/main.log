@@ -1,0 +1,42 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(68,54): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(74,54): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(172,13): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(181,13): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(210,25): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(213,25): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(217,25): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(303,40): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(303,40): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(303,51): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(303,51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(303,69): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(303,69): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(540,52): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(952,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(953,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(954,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1001,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1027,49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1028,49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1064,49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1065,49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1092,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1093,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1094,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1124,80): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1129,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1130,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1131,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1145,82): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1151,82): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1157,82): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1163,82): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1171,100): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1175,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1176,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1177,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1216,49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\main.cpp(1217,49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  main.vcxproj -> D:\Year2Sem1\CS3241\lab\Lab3_todo_(win-vs2017)\Debug\main.exe
